@@ -1,0 +1,10 @@
+**/.DS_Store
+**/.Rhistory
+**/.Rapp.history
+Canada Data/LexisNexis/*
+Reading/*
+Older Drafts/*
+*.docx
+*.aux
+*.log
+*.synctex.gz

@@ -1,0 +1,22 @@
+# Move from raw data files to files actually used in analysis.
+cd "Canada Data/Merge"
+python processResults.py
+
+# Prep data, including generating synth obs for Heckman
+cd ../../
+Rscript Prep_1.R
+cd "Canada Data/SyntheticObs/"
+python processResults.py
+cd ../../
+Rscript Prep_2.R
+
+# Run data analysis, generate tables and figures
+Rscript CanadaDataAnalysis.r
+
+# Fix Stargazer output.
+cd Includes
+python shrinkTex.py
+
+cd ../
+cd "Canada Data/Merge/"
+rm *.RData

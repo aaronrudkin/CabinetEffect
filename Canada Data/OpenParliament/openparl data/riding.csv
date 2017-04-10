@@ -1,0 +1,702 @@
+"id","name","province","slug","edid","name_fr","current"
+10002,"Bonavista--Gander--Grand Falls--Windsor","NL","bonavista-gander-grand-falls-windsor",10002,"",False
+10003,"Humber--St. Barbe--Baie Verte","NL","humber-st-barbe-baie-verte",10003,"",False
+70280,"Gaspésie--Les-Îles-de-la-Madeleine","QC","gaspesie-les-iles-de-la-madeleine",24026,"Gaspésie--Les-Îles-de-la-Madeleine",True
+10005,"Random--Burin--St. George's","NL","random-burin-st-george-s",10005,"",False
+12007,"Cumberland--Colchester--Musquodoboit Valley","NS","cumberland-colchester-musquodoboit-valley",12007,"",False
+12008,"Sackville--Eastern Shore","NS","sackville-eastern-shore",12008,"",False
+12009,"South Shore--St. Margaret's","NS","south-shore-st-margaret-s",12009,"",False
+13006,"Miramichi","NB","miramichi",13006,"",False
+13009,"Saint John","NB","saint-john",13009,"",False
+24002,"Ahuntsic","QC","ahuntsic",24002,"",False
+24004,"Argenteuil--Papineau--Mirabel","QC","argenteuil-papineau-mirabel",24004,"",False
+24006,"Beauharnois--Salaberry","QC","beauharnois-salaberry",24006,"",False
+24011,"Brossard--La Prairie","QC","brossard-la-prairie",24011,"",False
+24012,"Chambly--Borduas","QC","chambly-borduas",24012,"",False
+24014,"Montmorency--Charlevoix--Haute-Côte-Nord","QC","montmorency-charlevoix-haute-cote-nord",24014,"",False
+24015,"Châteauguay--Saint-Constant","QC","chateauguay-saint-constant",24015,"",False
+24019,"Gaspésie--Îles-de-la-Madeleine","QC","gaspesie-iles-de-la-madeleine",24019,"",False
+24024,"Jeanne-Le Ber","QC","jeanne-le-ber",24024,"",False
+24026,"Jonquière--Alma","QC","jonquiere-alma",24026,"",False
+24029,"LaSalle--Émard","QC","lasalle-emard",24029,"",False
+24032,"Laval","QC","laval",24032,"",False
+24034,"Lévis--Bellechasse","QC","levis-bellechasse",24034,"",False
+24035,"Longueuil--Pierre-Boucher","QC","longueuil-pierre-boucher",24035,"",False
+24036,"Lotbinière--Chutes-de-la-Chaudière","QC","lotbiniere-chutes-de-la-chaudiere",24036,"",False
+24041,"Haute-Gaspésie--La Mitis--Matane--Matapédia","QC","haute-gaspesie-la-mitis-matane-matapedia",24041,"",False
+24045,"Notre-Dame-de-Grâce--Lachine","QC","notre-dame-de-grace-lachine",24045,"",False
+24054,"Bas-Richelieu--Nicolet--Bécancour","QC","bas-richelieu-nicolet-becancour",24054,"",False
+24060,"Roberval--Lac-Saint-Jean","QC","roberval-lac-saint-jean",24060,"",False
+24062,"Saint-Bruno--Saint-Hubert","QC","saint-bruno-saint-hubert",24062,"",False
+24065,"Saint-Lambert","QC","saint-lambert",24065,"",False
+24066,"Saint-Laurent--Cartierville","QC","saint-laurent-cartierville",24066,"",False
+24071,"Terrebonne--Blainville","QC","terrebonne-blainville",24071,"",False
+24074,"Verchères--Les Patriotes","QC","vercheres-les-patriotes",24074,"",False
+24075,"Westmount--Ville-Marie","QC","westmount-ville-marie",24075,"",False
+35001,"Ajax--Pickering","ON","ajax-pickering",35001,"",False
+35003,"Ancaster--Dundas--Flamborough--Westdale","ON","ancaster-dundas-flamborough-westdale",35003,"",False
+35004,"Barrie","ON","barrie",35004,"",False
+35006,"Bramalea--Gore--Malton","ON","bramalea-gore-malton",35006,"",False
+35007,"Brampton--Springdale","ON","brampton-springdale",35007,"",False
+35009,"Brant","ON","brant",35009,"",False
+35012,"Carleton--Mississippi Mills","ON","carleton-mississippi-mills",35012,"",False
+35013,"Chatham-Kent--Essex","ON","chatham-kent-essex",35013,"",False
+35030,"Halton","ON","halton",35030,"",False
+35039,"Kitchener--Waterloo","ON","kitchener-waterloo",35039,"",False
+35040,"Lanark--Frontenac--Lennox and Addington","ON","lanark-frontenac-lennox-and-addington",35040,"",False
+35041,"Leeds--Grenville","ON","leeds-grenville",35041,"",False
+35047,"Mississauga--Brampton South","ON","mississauga-brampton-south",35047,"",False
+35049,"Mississauga--Erindale","ON","mississauga-erindale",35049,"",False
+35050,"Mississauga South","ON","mississauga-south",35050,"",False
+35052,"Nepean--Carleton","ON","nepean-carleton",35052,"",False
+35055,"Niagara West--Glanbrook","ON","niagara-west-glanbrook",35055,"",False
+35058,"Northumberland--Quinte West","ON","northumberland-quinte-west",35058,"",False
+35059,"Oak Ridges--Markham","ON","oak-ridges-markham",35059,"",False
+35063,"Ottawa--Orléans","ON","ottawa-orleans",35063,"",False
+35071,"Peterborough","ON","peterborough",35071,"",False
+35072,"Pickering--Scarborough East","ON","pickering-scarborough-east",35072,"",False
+35073,"Prince Edward--Hastings","ON","prince-edward-hastings",35073,"",False
+35077,"St. Paul's","ON","st-paul-s",35077,"",False
+35083,"Scarborough--Rouge River","ON","scarborough-rouge-river",35083,"",False
+35095,"Trinity--Spadina","ON","trinity-spadina",35095,"",False
+35096,"Vaughan","ON","vaughan",35096,"",False
+35097,"Welland","ON","welland",35097,"",False
+35099,"Whitby--Oshawa","ON","whitby-oshawa",35099,"",False
+35106,"York West","ON","york-west",35106,"",False
+46002,"Charleswood--St. James--Assiniboia","MB","charleswood-st-james-assiniboia",46002,"",False
+46003,"Churchill","MB","churchill",46003,"",False
+46004,"Dauphin--Swan River--Marquette","MB","dauphin-swan-river-marquette",46004,"",False
+46009,"Saint Boniface","MB","saint-boniface",46009,"",False
+46010,"Selkirk--Interlake","MB","selkirk-interlake",46010,"",False
+47002,"Blackstrap","SK","blackstrap",47002,"",False
+47005,"Palliser","SK","palliser",47005,"",False
+47007,"Regina--Lumsden--Lake Centre","SK","regina-lumsden-lake-centre",47007,"",False
+47009,"Saskatoon--Humboldt","SK","saskatoon-humboldt",47009,"",False
+47010,"Saskatoon--Rosetown--Biggar","SK","saskatoon-rosetown-biggar",47010,"",False
+47011,"Saskatoon--Wanuskewin","SK","saskatoon-wanuskewin",47011,"",False
+47013,"Wascana","SK","wascana",47013,"",False
+48001,"Fort McMurray--Athabasca","AB","fort-mcmurray-athabasca",48001,"",False
+48002,"Calgary East","AB","calgary-east",48002,"",False
+48003,"Calgary Centre-North","AB","calgary-centre-north",48003,"",False
+48004,"Calgary Northeast","AB","calgary-northeast",48004,"",False
+48007,"Calgary Southeast","AB","calgary-southeast",48007,"",False
+48008,"Calgary Southwest","AB","calgary-southwest",48008,"",False
+48009,"Calgary West","AB","calgary-west",48009,"",False
+48010,"Crowfoot","AB","crowfoot",48010,"",False
+48011,"Edmonton--Mill Woods--Beaumont","AB","edmonton-mill-woods-beaumont",48011,"",False
+48013,"Edmonton East","AB","edmonton-east",48013,"",False
+48014,"Edmonton--Leduc","AB","edmonton-leduc",48014,"",False
+48015,"Edmonton--St. Albert","AB","edmonton-st-albert",48015,"",False
+48016,"Edmonton--Sherwood Park","AB","edmonton-sherwood-park",48016,"",False
+48017,"Edmonton--Spruce Grove","AB","edmonton-spruce-grove",48017,"",False
+48020,"Macleod","AB","macleod",48020,"",False
+48021,"Medicine Hat","AB","medicine-hat",48021,"",False
+48022,"Peace River","AB","peace-river",48022,"",False
+48023,"Red Deer","AB","red-deer",48023,"",False
+48024,"Vegreville--Wainwright","AB","vegreville-wainwright",48024,"",False
+48025,"Westlock--St. Paul","AB","westlock-st-paul",48025,"",False
+48026,"Wetaskiwin","AB","wetaskiwin",48026,"",False
+48027,"Wild Rose","AB","wild-rose",48027,"",False
+59002,"Burnaby--Douglas","BC","burnaby-douglas",59002,"",False
+59003,"Burnaby--New Westminster","BC","burnaby-new-westminster",59003,"",False
+59005,"Chilliwack--Fraser Canyon","BC","chilliwack-fraser-canyon",59005,"",False
+59006,"Delta--Richmond East","BC","delta-richmond-east",59006,"",False
+59007,"Pitt Meadows--Maple Ridge--Mission","BC","pitt-meadows-maple-ridge-mission",59007,"",False
+59008,"Esquimalt--Juan de Fuca","BC","esquimalt-juan-de-fuca",59008,"",False
+59013,"Langley","BC","langley",59013,"",False
+59014,"Nanaimo--Alberni","BC","nanaimo-alberni",59014,"",False
+59015,"Nanaimo--Cowichan","BC","nanaimo-cowichan",59015,"",False
+59016,"Newton--North Delta","BC","newton-north-delta",59016,"",False
+59017,"New Westminster--Coquitlam","BC","new-westminster-coquitlam",59017,"",False
+59018,"Okanagan--Shuswap","BC","okanagan-shuswap",59018,"",False
+59020,"Okanagan--Coquihalla","BC","okanagan-coquihalla",59020,"",False
+59021,"Port Moody--Westwood--Port Coquitlam","BC","port-moody-westwood-port-coquitlam",59021,"",False
+59022,"Prince George--Peace River","BC","prince-george-peace-river",59022,"",False
+59023,"Richmond","BC","richmond",59023,"",False
+35102,"Windsor West","ON","windsor-west",35117,"Windsor-Ouest",True
+59026,"British Columbia Southern Interior","BC","british-columbia-southern-interior",59026,"",False
+59027,"South Surrey--White Rock--Cloverdale","BC","south-surrey-white-rock-cloverdale",59027,"",False
+59028,"Surrey North","BC","surrey-north",59028,"",False
+59031,"Vancouver Island North","BC","vancouver-island-north",59031,"",False
+61001,"Western Arctic","NT","western-arctic",61001,"",False
+70001,"Athabasca","AB","athabasca","","",False
+70002,"Calgary North Centre","AB","calgary-north-centre","","",False
+70003,"Calgary South Centre","AB","calgary-south-centre","","",False
+70004,"Edmonton--Beaumont","AB","edmonton-beaumont","","",False
+70005,"Dewdney--Alouette","BC","dewdney-alouette","","",False
+70006,"Kamloops--Thompson","BC","kamloops-thompson","","",False
+70007,"Kelowna","BC","kelowna","","",False
+70009,"Southern Interior","BC","southern-interior","","",False
+70010,"West Vancouver--Sunshine Coast","BC","west-vancouver-sunshine-coast","","",False
+70011,"Charleswood--St. James","MB","charleswood-st-james","","",False
+70012,"Dauphin--Swan River","MB","dauphin-swan-river","","",False
+70013,"Fundy","NB","fundy","","",False
+70014,"St. Croix--Belleisle","NB","st-croix-belleisle","","",False
+70015,"Bonavista--Exploits","NL","bonavista-exploits","","",False
+70016,"St. John's North","NL","st-john-s-north","","",False
+70017,"St. John's South","NL","st-john-s-south","","",False
+70018,"North Nova","NS","north-nova","","",False
+70019,"Carleton--Lanark","ON","carleton-lanark","","",False
+70020,"Clarington--Scugog--Uxbridge","ON","clarington-scugog-uxbridge","","",False
+70021,"Grey--Bruce--Owen Sound","ON","grey-bruce-owen-sound","","",False
+70022,"Middlesex--Kent--Lambton","ON","middlesex-kent-lambton","","",False
+70023,"Argenteuil--Mirabel","QC","argenteuil-mirabel","","",False
+70024,"Beauport","QC","beauport","","",False
+70025,"Charlesbourg","QC","charlesbourg","","",False
+70026,"Charlevoix--Montmorency","QC","charlevoix-montmorency","","",False
+70027,"Laurier","QC","laurier","","",False
+70028,"Longueuil","QC","longueuil","","",False
+70029,"Matapédia--Matane","QC","matapedia-matane","","",False
+70030,"Nunavik--Eeyou","QC","nunavik-eeyou","","",False
+70031,"Portneuf","QC","portneuf","","",False
+70032,"Richelieu","QC","richelieu","","",False
+70033,"Rimouski--Témiscouata","QC","rimouski-temiscouata","","",False
+70034,"Rivière-Du-Loup--Montmagny","QC","riviere-du-loup-montmagny","","",False
+70035,"Roberval","QC","roberval","","",False
+70036,"Churchill River","SK","churchill-river","","",False
+70037,"Edmonton Centre-East","AB","edmonton-centre-east","","",False
+70038,"Edmonton North","AB","edmonton-north","","",False
+70039,"Edmonton Southeast","AB","edmonton-southeast","","",False
+70040,"Edmonton Southwest","AB","edmonton-southwest","","",False
+70042,"Elk Island","AB","elk-island","","",False
+70044,"St. Albert","AB","st-albert","","",False
+70045,"Cariboo--Chilcotin","BC","cariboo-chilcotin","","",False
+70046,"Delta--South Richmond","BC","delta-south-richmond","","",False
+70047,"Fraser Valley","BC","fraser-valley","","",False
+70048,"Kamloops, Thompson And Highland Valleys","BC","kamloops-thompson-and-highland-valleys","","",False
+70049,"Kootenay--Boundary--Okanagan","BC","kootenay-boundary-okanagan","","",False
+70050,"Langley--Abbotsford","BC","langley-abbotsford","","",False
+70051,"New Westminster--Coquitlam--Burnaby","BC","new-westminster-coquitlam-burnaby","","",False
+70052,"Port Moody--Coquitlam--Port Coquitlam","BC","port-moody-coquitlam-port-coquitlam","","",False
+70053,"Prince George--Bulkley Valley","BC","prince-george-bulkley-valley","","",False
+70054,"Skeena","BC","skeena","","",False
+70055,"South Surrey--White Rock--Langley","BC","south-surrey-white-rock-langley","","",False
+70056,"Surrey Central","BC","surrey-central","","",False
+70057,"Vancouver South--Burnaby","BC","vancouver-south-burnaby","","",False
+70058,"Winnipeg North Centre","MB","winnipeg-north-centre","","",False
+70059,"Winnipeg North--St. Paul","MB","winnipeg-north-st-paul","","",False
+70060,"Winnipeg--Transcona","MB","winnipeg-transcona","","",False
+70061,"Beauséjour--Petitcodiac","NB","beausejour-petitcodiac","","",False
+70062,"Bonavista--Trinity--Conception","NL","bonavista-trinity-conception","","",False
+70064,"Gander--Grand Falls","NL","gander-grand-falls","","",False
+70066,"Bras D'Or--Cape Breton","NS","bras-d-or-cape-breton","","",False
+70068,"Dartmouth","NS","dartmouth","","",False
+70069,"Pictou--Antigonish--Guysborough","NS","pictou-antigonish-guysborough","","",False
+70070,"Sackville--Musquodoboit Valley--Eastern Shore","NS","sackville-musquodoboit-valley-eastern-shore","","",False
+70071,"South Shore","NS","south-shore","","",False
+70072,"Algoma--Manitoulin","ON","algoma-manitoulin","","",False
+70073,"Ancaster--Dundas--Flamborough--Aldershot","ON","ancaster-dundas-flamborough-aldershot","","",False
+70074,"Barrie--Simcoe--Bradford","ON","barrie-simcoe-bradford","","",False
+70075,"Bramalea--Gore--Malton--Springdale","ON","bramalea-gore-malton-springdale","","",False
+70077,"Brampton West--Mississauga","ON","brampton-west-mississauga","","",False
+24052,"Québec","QC","quebec",24059,"Québec",True
+70078,"Dufferin--Peel--Wellington--Grey","ON","dufferin-peel-wellington-grey","","",False
+70079,"Erie--Lincoln","ON","erie-lincoln","","",False
+70080,"Guelph--Wellington","ON","guelph-wellington","","",False
+70081,"Haldimand--Norfolk--Brant","ON","haldimand-norfolk-brant","","",False
+70082,"Haliburton--Victoria--Brock","ON","haliburton-victoria-brock","","",False
+70083,"Hamilton East","ON","hamilton-east","","",False
+70084,"Hamilton West","ON","hamilton-west","","",False
+70085,"Hastings--Frontenac--Lennox And Addington","ON","hastings-frontenac-lennox-and-addington","","",False
+60001,"Yukon","YT","yukon",60001,"Yukon",True
+70086,"Kenora--Rainy River","ON","kenora-rainy-river","","",False
+70087,"Lanark--Carleton","ON","lanark-carleton","","",False
+70088,"Markham","ON","markham","","",False
+70090,"Mississauga East","ON","mississauga-east","","",False
+70091,"Mississauga West","ON","mississauga-west","","",False
+70093,"Nipissing","ON","nipissing","","",False
+70094,"Northumberland","ON","northumberland","","",False
+70095,"Oak Ridges","ON","oak-ridges","","",False
+70096,"Perth--Middlesex","ON","perth-middlesex","","",False
+70097,"Pickering--Ajax--Uxbridge","ON","pickering-ajax-uxbridge","","",False
+70098,"Scarborough East","ON","scarborough-east","","",False
+70099,"Stoney Creek","ON","stoney-creek","","",False
+70100,"Stormont--Dundas--Charlottenburgh","ON","stormont-dundas-charlottenburgh","","",False
+70101,"Thunder Bay--Atikokan","ON","thunder-bay-atikokan","","",False
+70102,"Timiskaming--Cochrane","ON","timiskaming-cochrane","","",False
+70103,"Toronto Centre--Rosedale","ON","toronto-centre-rosedale","","",False
+70104,"Vaughan--King--Aurora","ON","vaughan-king-aurora","","",False
+70105,"Waterloo--Wellington","ON","waterloo-wellington","","",False
+70106,"Whitby--Ajax","ON","whitby-ajax","","",False
+70107,"Windsor--St. Clair","ON","windsor-st-clair","","",False
+70108,"York North","ON","york-north","","",False
+70109,"Hillsborough","PE","hillsborough","","",False
+70110,"Abitibi--Baie-James--Nunavik","QC","abitibi-baie-james-nunavik","","",False
+70111,"Anjou--Rivière-Des-Prairies","QC","anjou-riviere-des-prairies","","",False
+70112,"Beauport--Montmorency--Côte-De- Beaupré--Île-D'Orléans","QC","beauport-montmorency-cote-de-beaupre-ile-d-orleans","","",False
+70113,"Bellechasse--Etchemins--Montmagny--L'Islet","QC","bellechasse-etchemins-montmagny-l-islet","","",False
+70114,"Berthier--Montcalm","QC","berthier-montcalm","","",False
+70115,"Bonaventure--Gaspé--Îles-De-La-Madeleine--Pabok","QC","bonaventure-gaspe-iles-de-la-madeleine-pabok","","",False
+70116,"Chambly","QC","chambly","","",False
+70117,"Champlain","QC","champlain","","",False
+70118,"Charlesbourg--Jacques-Cartier","QC","charlesbourg-jacques-cartier","","",False
+70119,"Charlevoix","QC","charlevoix","","",False
+70120,"Châteauguay","QC","chateauguay","","",False
+70121,"Frontenac--Mégantic","QC","frontenac-megantic","","",False
+70122,"Hochelaga--Maisonneuve","QC","hochelaga-maisonneuve","","",False
+70124,"Kamouraska--Rivière-Du-Loup--Témiscouata--Les Basques","QC","kamouraska-riviere-du-loup-temiscouata-les-basques","","",False
+70125,"Lac-Saint-Jean--Saguenay","QC","lac-saint-jean-saguenay","","",False
+70126,"Laurentides","QC","laurentides","","",False
+70127,"Laval Centre","QC","laval-centre","","",False
+70128,"Laval East","QC","laval-east","","",False
+70129,"Laval West","QC","laval-west","","",False
+70130,"Lévis-Et-Chutes-De-La-Chaudière","QC","levis-et-chutes-de-la-chaudiere","","",False
+70131,"Lotbinière--L'Érable","QC","lotbiniere-l-erable","","",False
+70132,"Mercier","QC","mercier","","",False
+70133,"Papineau--Saint-Denis","QC","papineau-saint-denis","","",False
+70134,"Pontiac--Gatineau--Labelle","QC","pontiac-gatineau-labelle","","",False
+70135,"Québec East","QC","quebec-east","","",False
+70136,"Rimouski-Neigette-Et-La Mitis","QC","rimouski-neigette-et-la-mitis","","",False
+70137,"Rosemont--Petite-Patrie","QC","rosemont-petite-patrie","","",False
+70138,"Saint-Maurice","QC","saint-maurice","","",False
+70139,"Témiscamingue","QC","temiscamingue","","",False
+70140,"Verdun--Saint-Henri--Saint-Paul--Pointe Saint-Charles","QC","verdun-saint-henri-saint-paul-pointe-saint-charles","","",False
+70141,"Kamloops","BC","kamloops","","",False
+70143,"West Kootenay--Okanagan","BC","west-kootenay-okanagan","","",False
+70144,"Charleswood--Assiniboine","MB","charleswood-assiniboine","","",False
+70145,"Charlotte","NB","charlotte","","",False
+70146,"Moncton","NB","moncton","","",False
+70147,"Bras D'Or","NS","bras-d-or","","",False
+70148,"Broadview--Greenwood","ON","broadview-greenwood","","",False
+70149,"Bruce--Grey","ON","bruce-grey","","",False
+70150,"Carleton--Gloucester","ON","carleton-gloucester","","",False
+70151,"Kent--Essex","ON","kent-essex","","",False
+70152,"Stormont--Dundas","ON","stormont-dundas","","",False
+70153,"Thunder Bay--Nipigon","ON","thunder-bay-nipigon","","",False
+70154,"Victoria--Haliburton","ON","victoria-haliburton","","",False
+70155,"Wentworth--Burlington","ON","wentworth-burlington","","",False
+70156,"Abitibi","QC","abitibi","","",False
+70157,"Argenteuil--Papineau","QC","argenteuil-papineau","","",False
+70158,"Beauport--Montmorency--Orléans","QC","beauport-montmorency-orleans","","",False
+70159,"Chicoutimi","QC","chicoutimi","","",False
+70161,"Lévis","QC","levis","","",False
+70162,"Lotbinière","QC","lotbiniere","","",False
+70163,"Rimouski--Mitis","QC","rimouski-mitis","","",False
+70164,"Rosemont","QC","rosemont","","",False
+70165,"Saint-Eustache--Sainte-Thérèse","QC","saint-eustache-sainte-therese","","",False
+70166,"Verchères","QC","vercheres","","",False
+70167,"Verdun--Saint-Henri","QC","verdun-saint-henri","","",False
+70168,"Qu'Appelle","SK","qu-appelle","","",False
+70169,"Wanuskewin","SK","wanuskewin","","",False
+70170,"Beaver River","AB","beaver-river","","",False
+70171,"Calgary North","AB","calgary-north","","",False
+70172,"Edmonton Northwest","AB","edmonton-northwest","","",False
+70173,"Vegreville","AB","vegreville","","",False
+70174,"Burnaby--Kingsway","BC","burnaby-kingsway","","",False
+70175,"Capilano--Howe Sound","BC","capilano-howe-sound","","",False
+70176,"Comox--Alberni","BC","comox-alberni","","",False
+70178,"Fraser Valley East","BC","fraser-valley-east","","",False
+70179,"Fraser Valley West","BC","fraser-valley-west","","",False
+70180,"Kootenay East","BC","kootenay-east","","",False
+70181,"Kootenay West--Revelstoke","BC","kootenay-west-revelstoke","","",False
+70182,"Mission--Coquitlam","BC","mission-coquitlam","","",False
+70185,"Okanagan Centre","BC","okanagan-centre","","",False
+70186,"Okanagan--Similkameen--Merritt","BC","okanagan-similkameen-merritt","","",False
+70187,"Surrey--White Rock--South Langley","BC","surrey-white-rock-south-langley","","",False
+70188,"Lisgar--Marquette","MB","lisgar-marquette","","",False
+70177,"Delta","BC","delta",59011,"Delta",True
+70189,"Portage--Interlake","MB","portage-interlake","","",False
+70190,"Selkirk--Red River","MB","selkirk-red-river","","",False
+70191,"St. Boniface","MB","st-boniface","","",False
+70192,"Winnipeg--St. James","MB","winnipeg-st-james","","",False
+70193,"Carleton--Charlotte","NB","carleton-charlotte","","",False
+70194,"Fredericton--York--Sunbury","NB","fredericton-york-sunbury","","",False
+70195,"Madawaska--Victoria","NB","madawaska-victoria","","",False
+70196,"Restigouche--Chaleur","NB","restigouche-chaleur","","",False
+70197,"Nunatsiaq","NT","nunatsiaq","","",False
+70198,"Annapolis Valley--Hants","NS","annapolis-valley-hants","","",False
+70199,"Cape Breton Highlands--Canso","NS","cape-breton-highlands-canso","","",False
+70200,"Cape Breton--East Richmond","NS","cape-breton-east-richmond","","",False
+70201,"Cape Breton--The Sydneys","NS","cape-breton-the-sydneys","","",False
+70202,"South West Nova","NS","south-west-nova","","",False
+70203,"Algoma","ON","algoma","","",False
+70204,"Beaches--Woodbine","ON","beaches-woodbine","","",False
+70205,"Brampton","ON","brampton","","",False
+70206,"Cochrane--Superior","ON","cochrane-superior","","",False
+70208,"Elgin--Norfolk","ON","elgin-norfolk","","",False
+70209,"Erie","ON","erie","","",False
+70210,"Essex--Kent","ON","essex-kent","","",False
+70211,"Essex--Windsor","ON","essex-windsor","","",False
+70212,"Halton--Peel","ON","halton-peel","","",False
+70213,"Hamilton--Wentworth","ON","hamilton-wentworth","","",False
+70214,"Kent","ON","kent","","",False
+70215,"Kitchener","ON","kitchener","","",False
+70216,"Lambton--Middlesex","ON","lambton-middlesex","","",False
+70217,"Lincoln","ON","lincoln","","",False
+70218,"London East","ON","london-east","","",False
+70219,"London--Middlesex","ON","london-middlesex","","",False
+70220,"Markham--Whitchurch-Stouffville","ON","markham-whitchurch-stouffville","","",False
+70222,"Oakville--Milton","ON","oakville-milton","","",False
+70223,"Ontario","ON","ontario","","",False
+70224,"Ottawa West","ON","ottawa-west","","",False
+70225,"Perth--Wellington--Waterloo","ON","perth-wellington-waterloo","","",False
+70226,"Rosedale","ON","rosedale","","",False
+70227,"Scarborough West","ON","scarborough-west","","",False
+70228,"Simcoe Centre","ON","simcoe-centre","","",False
+70229,"Timiskaming--French-River","ON","timiskaming-french-river","","",False
+70230,"Timmins--Chapleau","ON","timmins-chapleau","","",False
+70232,"Welland--St. Catharines--Thorold","ON","welland-st-catharines-thorold","","",False
+70233,"Wellington--Grey--Dufferin--Simcoe","ON","wellington-grey-dufferin-simcoe","","",False
+70234,"Bellechasse","QC","bellechasse","","",False
+70235,"Blainville--Deux-Montagnes","QC","blainville-deux-montagnes","","",False
+70236,"Bonaventure--Îles-De-La-Madeleine","QC","bonaventure-iles-de-la-madeleine","","",False
+70237,"Frontenac","QC","frontenac","","",False
+70238,"Gaspé","QC","gaspe","","",False
+70239,"Gatineau--La Lièvre","QC","gatineau-la-lievre","","",False
+70240,"Kamouraska--Rivière-Du-Loup","QC","kamouraska-riviere-du-loup","","",False
+70242,"Lachine--Lac-Saint-Louis","QC","lachine-lac-saint-louis","","",False
+70243,"Mégantic--Compton--Stanstead","QC","megantic-compton-stanstead","","",False
+70244,"Notre-Dame-De-Grâce","QC","notre-dame-de-grace","","",False
+70245,"Papineau--Saint-Michel","QC","papineau-saint-michel","","",False
+70246,"Québec-Est","QC","quebec-est","","",False
+70247,"Richmond--Wolfe","QC","richmond-wolfe","","",False
+70248,"Saint-Denis","QC","saint-denis","","",False
+70249,"Saint-Henri--Westmount","QC","saint-henri-westmount","","",False
+70250,"Saint-Hubert","QC","saint-hubert","","",False
+70251,"Saint-Léonard","QC","saint-leonard","","",False
+70253,"Vaudreuil","QC","vaudreuil","","",False
+70254,"Verdun--Saint-Paul","QC","verdun-saint-paul","","",False
+70255,"Kindersley--Lloydminster","SK","kindersley-lloydminster","","",False
+70256,"Mackenzie","SK","mackenzie","","",False
+70257,"Moose Jaw--Lake Centre","SK","moose-jaw-lake-centre","","",False
+70258,"Prince Albert--Churchill River","SK","prince-albert-churchill-river","","",False
+70259,"Regina--Lumsden","SK","regina-lumsden","","",False
+70261,"Saskatoon--Clark's Crossing","SK","saskatoon-clark-s-crossing","","",False
+70262,"Saskatoon--Dundurn","SK","saskatoon-dundurn","","",False
+70263,"Swift Current--Maple Creek--Assiniboia","SK","swift-current-maple-creek-assiniboia","","",False
+70264,"The Battlefords--Meadow Lake","SK","the-battlefords-meadow-lake","","",False
+70065,"St. John's West","NL","st-john-s-west","","",False
+70063,"Burin--St. George's","NL","burin-st-george-s","","",False
+70266,"Calgary Heritage","AB","calgary-heritage",48007,"Calgary Heritage",True
+35027,"Guelph","ON","guelph",35032,"Guelph",True
+59025,"Skeena--Bulkley Valley","BC","skeena-bulkley-valley",59028,"Skeena--Bulkley Valley",True
+70267,"Calgary Shepard","AB","calgary-shepard",48011,"Calgary Shepard",True
+11002,"Charlottetown","PE","charlottetown",11002,"Charlottetown",True
+70268,"Beauport--Côte-de-Beaupré--Île dOrléans--Charlevoix","QC","beauport-cote-de-beaupre-ile-d-orleans-charlevoix",24020,"Beauport--Côte-de-Beaupré--Île d'Orléans--Charlevoix",True
+35061,"Oshawa","ON","oshawa",35074,"Oshawa",True
+35078,"Sarnia--Lambton","ON","sarnia-lambton",35091,"Sarnia--Lambton",True
+70269,"Vaughan--Woodbridge","ON","vaughan-woodbridge",35111,"Vaughan--Woodbridge",True
+70231,"Waterloo","ON","waterloo",35112,"Waterloo",True
+35101,"Windsor--Tecumseh","ON","windsor-tecumseh",35116,"Windsor--Tecumseh",True
+70270,"Brampton South","ON","brampton-south",35011,"Brampton-Sud",True
+35029,"Haliburton--Kawartha Lakes--Brock","ON","haliburton-kawartha-lakes-brock",35034,"Haliburton--Kawartha Lakes--Brock",True
+62001,"Nunavut","NU","nunavut",62001,"Nunavut",True
+24063,"Saint-Hyacinthe--Bagot","QC","saint-hyacinthe-bagot",24066,"Saint-Hyacinthe--Bagot",True
+70271,"Brossard--Saint-Lambert","QC","brossard-saint-lambert",24017,"Brossard--Saint-Lambert",True
+70272,"Châteauguay--Lacolle","QC","chateauguay-lacolle",24021,"Châteauguay--Lacolle",True
+24021,"Hochelaga","QC","hochelaga",24028,"Hochelaga",True
+48006,"Calgary Centre","AB","calgary-centre",48004,"Calgary-Centre",True
+46007,"Portage--Lisgar","MB","portage-lisgar",46007,"Portage--Lisgar",True
+12006,"Kings--Hants","NS","kings-hants",12007,"Kings--Hants",True
+59001,"Abbotsford","BC","abbotsford",59001,"Abbotsford",True
+70273,"Burnaby North--Seymour","BC","burnaby-north-seymour",59002,"Burnaby-Nord--Seymour",True
+35010,"Burlington","ON","burlington",35015,"Burlington",True
+24055,"Richmond--Arthabaska","QC","richmond-arthabaska",24061,"Richmond--Arthabaska",True
+24059,"Rivière-du-Nord","QC","riviere-du-nord",24063,"Rivière-du-Nord",True
+24064,"Saint-Jean","QC","saint-jean",24067,"Saint-Jean",True
+24068,"Saint-Maurice--Champlain","QC","saint-maurice-champlain",24070,"Saint-Maurice--Champlain",True
+70274,"Salaberry--Suroît","QC","salaberry-suroit",24071,"Salaberry--Suroît",True
+70275,"Chatham-Kent--Leamington","ON","chatham-kent-leamington",35017,"Chatham-Kent--Leamington",True
+35014,"Durham","ON","durham",35023,"Durham",True
+70276,"Hamilton West--Ancaster--Dundas","ON","hamilton-west-ancaster-dundas",35038,"Hamilton-Ouest--Ancaster--Dundas",True
+35046,"Lambton--Kent--Middlesex","ON","lambton-kent-middlesex",35048,"Lambton--Kent--Middlesex",True
+70092,"Niagara Centre","ON","niagara-centre",35066,"Niagara-Centre",True
+70277,"Northumberland--Peterborough South","ON","northumberland-peterborough-south",35071,"Northumberland--Peterborough-Sud",True
+35021,"Essex","ON","essex",35026,"Essex",True
+35085,"Simcoe--Grey","ON","simcoe-grey",35099,"Simcoe--Grey",True
+35044,"London West","ON","london-west",35053,"London-Ouest",True
+35045,"Markham--Unionville","ON","markham-unionville",35056,"Markham--Unionville",True
+70278,"Markham--Stouffville","ON","markham-stouffville",35054,"Markham--Stouffville",True
+70279,"Selkirk--Interlake--Eastman","MB","selkirk-interlake-eastman",46010,"Selkirk--Interlake--Eastman",True
+24039,"Manicouagan","QC","manicouagan",24046,"Manicouagan",True
+70281,"Courtenay--Alberni","BC","courtenay-alberni",59009,"Courtenay--Alberni",True
+46001,"Brandon--Souris","MB","brandon-souris",46001,"Brandon--Souris",True
+12004,"Halifax","NS","halifax",12005,"Halifax",True
+70282,"Calgary Rocky Ridge","AB","calgary-rocky-ridge",48010,"Calgary Rocky Ridge",True
+70283,"Calgary Signal Hill","AB","calgary-signal-hill",48012,"Calgary Signal Hill",True
+70284,"Calgary Skyview","AB","calgary-skyview",48013,"Calgary Skyview",True
+70067,"Cumberland--Colchester","NS","cumberland-colchester",12003,"Cumberland--Colchester",True
+70285,"South Shore--St. Margarets","NS","south-shore-st-margarets",12009,"South Shore--St. Margarets",True
+70286,"Sackville--Preston--Chezzetcook","NS","sackville-preston-chezzetcook",12008,"Sackville--Preston--Chezzetcook",True
+70287,"Bécancour--Nicolet--Saurel","QC","becancour-nicolet-saurel",24009,"Bécancour--Nicolet--Saurel",True
+24008,"Berthier--Maskinongé","QC","berthier-maskinonge",24012,"Berthier--Maskinongé",True
+70288,"Beloeil--Chambly","QC","beloeil-chambly",24011,"Beloeil--Chambly",True
+70289,"Bellechasse--Les Etchemins--Lévis","QC","bellechasse-les-etchemins-levis",24010,"Bellechasse--Les Etchemins--Lévis",True
+59011,"Kelowna--Lake Country","BC","kelowna-lake-country",59014,"Kelowna--Lake Country",True
+70290,"Mission--Matsqui--Fraser Canyon","BC","mission-matsqui-fraser-canyon",59017,"Mission--Matsqui--Fraser Canyon",True
+70008,"North Okanagan--Shuswap","BC","north-okanagan-shuswap",59020,"North Okanagan--Shuswap",True
+70291,"Pitt Meadows--Maple Ridge","BC","pitt-meadows-maple-ridge",59022,"Pitt Meadows--Maple Ridge",True
+70292,"Saskatoon West","SK","saskatoon-west",47012,"Saskatoon-Ouest",True
+24010,"Brome--Missisquoi","QC","brome-missisquoi",24016,"Brome--Missisquoi",True
+70293,"Surrey--Newton","BC","surrey-newton",59033,"Surrey--Newton",True
+59029,"Vancouver Centre","BC","vancouver-centre",59034,"Vancouver-Centre",True
+24023,"Hull--Aylmer","QC","hull-aylmer",24030,"Hull--Aylmer",True
+35023,"Etobicoke--Lakeshore","ON","etobicoke-lakeshore",35028,"Etobicoke--Lakeshore",True
+70183,"New Westminster--Burnaby","BC","new-westminster-burnaby",59019,"New Westminster--Burnaby",True
+24031,"Laurier--Sainte-Marie","QC","laurier-sainte-marie",24039,"Laurier--Sainte-Marie",True
+12003,"Dartmouth--Cole Harbour","NS","dartmouth-cole-harbour",12004,"Dartmouth--Cole Harbour",True
+24003,"Alfred-Pellan","QC","alfred-pellan",24004,"Alfred-Pellan",True
+70294,"Dorval--Lachine--LaSalle","QC","dorval-lachine-lasalle",24024,"Dorval--Lachine--LaSalle",True
+24070,"Sherbrooke","QC","sherbrooke",24073,"Sherbrooke",True
+70221,"Nepean","ON","nepean",35064,"Nepean",True
+24044,"Mount Royal","QC","mount-royal",24052,"Mont-Royal",True
+70295,"Esquimalt--Saanich--Sooke","BC","esquimalt-saanich-sooke",59026,"Esquimalt--Saanich--Sooke",True
+70296,"South Okanagan--West Kootenay","BC","south-okanagan-west-kootenay",59029,"Okanagan-Sud--Kootenay-Ouest",True
+12005,"Halifax West","NS","halifax-west",12006,"Halifax-Ouest",True
+13007,"Moncton--Riverview--Dieppe","NB","moncton-riverview-dieppe",13007,"Moncton--Riverview--Dieppe",True
+70297,"Thérèse-De Blainville","QC","therese-de-blainville",24013,"Thérèse-De Blainville",True
+24027,"Lac-Saint-Louis","QC","lac-saint-louis",24036,"Lac-Saint-Louis",True
+70298,"Notre-Dame-de-Grâce--Westmount","QC","notre-dame-de-grace-westmount",24053,"Notre-Dame-de-Grâce--Westmount",True
+24040,"Marc-Aurèle-Fortin","QC","marc-aurele-fortin",24065,"Marc-Aurèle-Fortin",True
+70299,"Saint-Laurent","QC","saint-laurent",24068,"Saint-Laurent",True
+70300,"Vimy","QC","vimy",24078,"Vimy",True
+59019,"North Vancouver","BC","north-vancouver",59021,"North Vancouver",True
+70207,"Don Valley North","ON","don-valley-north",35020,"Don Valley-Nord",True
+70301,"Saskatoon--Grasswood","SK","saskatoon-grasswood",47010,"Saskatoon--Grasswood",True
+70302,"Banff--Airdrie","AB","banff-airdrie",48001,"Banff--Airdrie",True
+24046,"Abitibi--Baie-James--Nunavik--Eeyou","QC","abitibi-baie-james-nunavik-eeyou",24001,"Abitibi--Baie-James--Nunavik--Eeyou",True
+24001,"Abitibi--Témiscamingue","QC","abitibi-temiscamingue",24002,"Abitibi--Témiscamingue",True
+35020,"Elgin--Middlesex--London","ON","elgin-middlesex-london",35025,"Elgin--Middlesex--London",True
+70303,"Flamborough--Glanbrook","ON","flamborough-glanbrook",35030,"Flamborough--Glanbrook",True
+59036,"West Vancouver--Sunshine Coast--Sea to Sky Country","BC","west-vancouver-sunshine-coast-sea-to-sky-country",59042,"West Vancouver--Sunshine Coast--Sea to Sky Country",True
+59012,"Kootenay--Columbia","BC","kootenay-columbia",59015,"Kootenay--Columbia",True
+70304,"Nanaimo--Ladysmith","BC","nanaimo-ladysmith",59018,"Nanaimo--Ladysmith",True
+70305,"Bay of Quinte","ON","bay-of-quinte",35006,"Baie de Quinte",True
+70306,"Hastings--Lennox and Addington","ON","hastings-lennox-and-addington",35039,"Hastings--Lennox and Addington",True
+35035,"Kenora","ON","kenora",35042,"Kenora",True
+70307,"Leeds--Grenville--Thousand Islands and Rideau Lakes","ON","leeds-grenville-thousand-islands-and-rideau-lakes",35050,"Leeds--Grenville--Thousand Islands et Rideau Lakes",True
+35084,"Scarborough Southwest","ON","scarborough-southwest",35098,"Scarborough-Sud-Ouest",True
+35065,"Ottawa--Vanier","ON","ottawa-vanier",35078,"Ottawa--Vanier",True
+35094,"Toronto--Danforth","ON","toronto-danforth",35109,"Toronto--Danforth",True
+35066,"Ottawa West--Nepean","ON","ottawa-west-nepean",35079,"Ottawa-Ouest--Nepean",True
+35079,"Sault Ste. Marie","ON","sault-ste-marie",35092,"Sault Ste. Marie",True
+35024,"Etobicoke North","ON","etobicoke-north",35029,"Etobicoke-Nord",True
+70308,"Brantford--Brant","ON","brantford-brant",35013,"Brantford--Brant",True
+59035,"Victoria","BC","victoria",59041,"Victoria",True
+70309,"Edmonton Griesbach","AB","edmonton-griesbach",48015,"Edmonton Griesbach",True
+70089,"Mississauga Centre","ON","mississauga-centre",35058,"Mississauga-Centre",True
+70310,"University--Rosedale","ON","university-rosedale",35110,"University--Rosedale",True
+35057,"Nipissing--Timiskaming","ON","nipissing-timiskaming",35070,"Nipissing--Timiskaming",True
+70311,"Orléans","ON","orleans",35076,"Orléans",True
+35087,"Stormont--Dundas--South Glengarry","ON","stormont-dundas-south-glengarry",35102,"Stormont--Dundas--South Glengarry",True
+35011,"Cambridge","ON","cambridge",35016,"Cambridge",True
+35068,"Parkdale--High Park","ON","parkdale-high-park",35081,"Parkdale--High Park",True
+35080,"Scarborough--Agincourt","ON","scarborough-agincourt",35093,"Scarborough--Agincourt",True
+70312,"Ajax","ON","ajax",35001,"Ajax",True
+70313,"Kitchener South--Hespeler","ON","kitchener-south-hespeler",35047,"Kitchener-Sud--Hespeler",True
+70314,"Aurora--Oak Ridges--Richmond Hill","ON","aurora-oak-ridges-richmond-hill",35003,"Aurora--Oak Ridges--Richmond Hill",True
+70315,"Charleswood--St. James--Assiniboia--Headingley","MB","charleswood-st-james-assiniboia-headingley",46002,"Charleswood--St. James--Assiniboia--Headingley",True
+70316,"Churchill--Keewatinook Aski","MB","churchill-keewatinook-aski",46003,"Churchill--Keewatinook Aski",True
+46005,"Elmwood--Transcona","MB","elmwood-transcona",46005,"Elmwood--Transcona",True
+46006,"Kildonan--St. Paul","MB","kildonan-st-paul",46006,"Kildonan--St. Paul",True
+70317,"Saint Boniface--Saint Vital","MB","saint-boniface-saint-vital",46009,"Saint-Boniface--Saint-Vital",True
+70318,"Barrie--Innisfil","ON","barrie-innisfil",35004,"Barrie--Innisfil",True
+70319,"Barrie--Springwater--Oro-Medonte","ON","barrie-springwater-oro-medonte",35005,"Barrie--Springwater--Oro-Medonte",True
+70076,"Brampton Centre","ON","brampton-centre",35008,"Brampton-Centre",True
+35026,"Bruce--Grey--Owen Sound","ON","bruce-grey-owen-sound",35014,"Bruce--Grey--Owen Sound",True
+35036,"Kingston and the Islands","ON","kingston-and-the-islands",35044,"Kingston et les Îles",True
+35056,"Nickel Belt","ON","nickel-belt",35069,"Nickel Belt",True
+70320,"Brampton East","ON","brampton-east",35009,"Brampton-Est",True
+70321,"Markham--Thornhill","ON","markham-thornhill",35055,"Markham--Thornhill",True
+70322,"Milton","ON","milton",35057,"Milton",True
+70323,"Fort McMurray--Cold Lake","AB","fort-mcmurray-cold-lake",48023,"Fort McMurray--Cold Lake",True
+70324,"Grande Prairie--Mackenzie","AB","grande-prairie-mackenzie",48024,"Grande Prairie--Mackenzie",True
+70325,"Prince George--Peace River--Northern Rockies","BC","prince-george-peace-river-northern-rockies",59024,"Prince George--Peace River--Northern Rockies",True
+70265,"Northwest Territories","NT","northwest-territories",61001,"Territoires du Nord-Ouest",True
+70326,"Battle River--Crowfoot","AB","battle-river-crowfoot",48002,"Battle River--Crowfoot",True
+46011,"Winnipeg Centre","MB","winnipeg-centre",46011,"Winnipeg-Centre",True
+46012,"Winnipeg North","MB","winnipeg-north",46012,"Winnipeg-Nord",True
+46013,"Winnipeg South","MB","winnipeg-south",46013,"Winnipeg-Sud",True
+46014,"Winnipeg South Centre","MB","winnipeg-south-centre",46014,"Winnipeg-Centre-Sud",True
+46008,"Provencher","MB","provencher",46008,"Provencher",True
+70327,"Brampton North","ON","brampton-north",35010,"Brampton-Nord",True
+35018,"Dufferin--Caledon","ON","dufferin-caledon",35022,"Dufferin--Caledon",True
+35038,"Kitchener--Conestoga","ON","kitchener-conestoga",35046,"Kitchener--Conestoga",True
+35022,"Etobicoke Centre","ON","etobicoke-centre",35027,"Etobicoke-Centre",True
+35048,"Mississauga East--Cooksville","ON","mississauga-east-cooksville",35059,"Mississauga-Est--Cooksville",True
+70043,"Lakeland","AB","lakeland",48025,"Lakeland",True
+47001,"Battlefords--Lloydminster","SK","battlefords-lloydminster",47001,"Battlefords--Lloydminster",True
+47003,"Desnethé--Missinippi--Churchill River","SK","desnethe-missinippi-churchill-river",47003,"Desnethé--Missinippi--Rivière Churchill",True
+70328,"Medicine Hat--Cardston--Warner","AB","medicine-hat-cardston-warner",48027,"Medicine Hat--Cardston--Warner",True
+47004,"Cypress Hills--Grasslands","SK","cypress-hills-grasslands",47002,"Cypress Hills--Grasslands",True
+70329,"Dauphin--Swan River--Neepawa","MB","dauphin-swan-river-neepawa",46004,"Dauphin--Swan River--Neepawa",True
+47014,"Yorkton--Melville","SK","yorkton-melville",47014,"Yorkton--Melville",True
+70330,"Mississauga--Lakeshore","ON","mississauga-lakeshore",35061,"Mississauga--Lakeshore",True
+35081,"Scarborough Centre","ON","scarborough-centre",35094,"Scarborough-Centre",True
+70331,"Scarborough--Rouge Park","ON","scarborough-rouge-park",35097,"Scarborough--Rouge Park",True
+70332,"Spadina--Fort York","ON","spadina-fort-york",35101,"Spadina--Fort York",True
+35008,"Brampton West","ON","brampton-west",35012,"Brampton-Ouest",True
+35064,"Ottawa South","ON","ottawa-south",35077,"Ottawa-Sud",True
+35005,"Beaches--East York","ON","beaches-east-york",35007,"Beaches--East York",True
+35100,"Willowdale","ON","willowdale",35115,"Willowdale",True
+70333,"Mississauga--Malton","ON","mississauga-malton",35062,"Mississauga--Malton",True
+35051,"Mississauga--Streetsville","ON","mississauga-streetsville",35063,"Mississauga--Streetsville",True
+35053,"Newmarket--Aurora","ON","newmarket-aurora",35065,"Newmarket--Aurora",True
+35033,"Hamilton Mountain","ON","hamilton-mountain",35037,"Hamilton Mountain",True
+35034,"Huron--Bruce","ON","huron-bruce",35040,"Huron--Bruce",True
+35031,"Hamilton Centre","ON","hamilton-centre",35035,"Hamilton-Centre",True
+35032,"Hamilton East--Stoney Creek","ON","hamilton-east-stoney-creek",35036,"Hamilton-Est--Stoney Creek",True
+70334,"King--Vaughan","ON","king-vaughan",35043,"King--Vaughan",True
+35037,"Kitchener Centre","ON","kitchener-centre",35045,"Kitchener-Centre",True
+70335,"Peterborough--Kawartha","ON","peterborough-kawartha",35084,"Peterborough--Kawartha",True
+35067,"Oxford","ON","oxford",35080,"Oxford",True
+35070,"Perth--Wellington","ON","perth-wellington",35083,"Perth--Wellington",True
+35098,"Wellington--Halton Hills","ON","wellington-halton-hills",35113,"Wellington--Halton Hills",True
+35104,"York--Simcoe","ON","york-simcoe",35119,"York--Simcoe",True
+70336,"Pickering--Uxbridge","ON","pickering-uxbridge",35085,"Pickering--Uxbridge",True
+35086,"Simcoe North","ON","simcoe-north",35100,"Simcoe-Nord",True
+24042,"Mégantic--L'Érable","QC","megantic-l-erable",24047,"Mégantic--L'Érable",True
+47012,"Souris--Moose Mountain","SK","souris-moose-mountain",47013,"Souris--Moose Mountain",True
+35028,"Haldimand--Norfolk","ON","haldimand-norfolk",35033,"Haldimand--Norfolk",True
+35103,"York Centre","ON","york-centre",35118,"York-Centre",True
+35025,"Glengarry--Prescott--Russell","ON","glengarry-prescott-russell",35031,"Glengarry--Prescott--Russell",True
+35042,"London--Fanshawe","ON","london-fanshawe",35051,"London--Fanshawe",True
+35054,"Niagara Falls","ON","niagara-falls",35067,"Niagara Falls",True
+70337,"Niagara West","ON","niagara-west",35068,"Niagara-Ouest",True
+35105,"York South--Weston","ON","york-south-weston",35120,"York-Sud--Weston",True
+70338,"Humber River--Black Creek","ON","humber-river-black-creek",35121,"Humber River--Black Creek",True
+35060,"Oakville","ON","oakville",35072,"Oakville",True
+35076,"St. Catharines","ON","st-catharines",35089,"St. Catharines",True
+35043,"London North Centre","ON","london-north-centre",35052,"London-Centre-Nord",True
+70339,"Sherwood Park--Fort Saskatchewan","AB","sherwood-park-fort-saskatchewan",48032,"Sherwood Park--Fort Saskatchewan",True
+70340,"Sturgeon River--Parkland","AB","sturgeon-river-parkland",48033,"Sturgeon River--Parkland",True
+70341,"Red Deer--Mountain View","AB","red-deer-mountain-view",48029,"Red Deer--Mountain View",True
+70342,"Longueuil--Saint-Hubert","QC","longueuil-saint-hubert",24043,"Longueuil--Saint-Hubert",True
+70343,"Mirabel","QC","mirabel",24048,"Mirabel",True
+70344,"Longueuil--Charles-LeMoyne","QC","longueuil-charles-lemoyne",24041,"Longueuil--Charles-Lemoyne",True
+24049,"Pierrefonds--Dollard","QC","pierrefonds-dollard",24056,"Pierrefonds--Dollard",True
+70345,"LaSalle--Émard--Verdun","QC","lasalle-emard-verdun",24037,"LaSalle--Émard--Verdun",True
+70346,"Edmonton Manning","AB","edmonton-manning",48016,"Edmonton Manning",True
+11001,"Cardigan","PE","cardigan",11001,"Cardigan",True
+24067,"Saint-Léonard--Saint-Michel","QC","saint-leonard-saint-michel",24069,"Saint-Léonard--Saint-Michel",True
+35069,"Parry Sound--Muskoka","ON","parry-sound-muskoka",35082,"Parry Sound--Muskoka",True
+35074,"Renfrew--Nipissing--Pembroke","ON","renfrew-nipissing-pembroke",35086,"Renfrew--Nipissing--Pembroke",True
+24056,"Rimouski-Neigette--Témiscouata--Les Basques","QC","rimouski-neigette-temiscouata-les-basques",24018,"Rimouski-Neigette--Témiscouata--Les Basques",True
+70347,"Carleton","ON","carleton",35088,"Carleton",True
+24058,"Montmagny--L'Islet--Kamouraska--Rivière-du-Loup","QC","montmagny-l-islet-kamouraska-riviere-du-loup",24051,"Montmagny--L'Islet--Kamouraska--Rivière-du-Loup",True
+35088,"Sudbury","ON","sudbury",35103,"Sudbury",True
+35090,"Thunder Bay--Rainy River","ON","thunder-bay-rainy-river",35105,"Thunder Bay--Rainy River",True
+35091,"Thunder Bay--Superior North","ON","thunder-bay-superior-north",35106,"Thunder Bay--Supérieur-Nord",True
+35092,"Timmins--James Bay","ON","timmins-james-bay",35107,"Timmins--Baie James",True
+24013,"Charlesbourg--Haute-Saint-Charles","QC","charlesbourg-haute-saint-charles",24019,"Charlesbourg--Haute-Saint-Charles",True
+24017,"Compton--Stanstead","QC","compton-stanstead",24023,"Compton--Stanstead",True
+35015,"Davenport","ON","davenport",35018,"Davenport",True
+59030,"Vancouver East","BC","vancouver-east",59035,"Vancouver-Est",True
+70348,"Vancouver Granville","BC","vancouver-granville",59036,"Vancouver Granville",True
+70184,"North Island--Powell River","BC","north-island-powell-river",59037,"North Island--Powell River",True
+59032,"Vancouver Kingsway","BC","vancouver-kingsway",59038,"Vancouver Kingsway",True
+24057,"Rivière-des-Mille-Îles","QC","riviere-des-mille-iles",24062,"Rivière-des-Mille-Îles",True
+24047,"Outremont","QC","outremont",24054,"Outremont",True
+24048,"Papineau","QC","papineau",24055,"Papineau",True
+24073,"Vaudreuil--Soulanges","QC","vaudreuil-soulanges",24074,"Vaudreuil--Soulanges",True
+70349,"Edmonton Mill Woods","AB","edmonton-mill-woods",48017,"Edmonton Mill Woods",True
+70350,"Edmonton Riverbend","AB","edmonton-riverbend",48018,"Edmonton Riverbend",True
+24016,"Chicoutimi--Le Fjord","QC","chicoutimi-le-fjord",24022,"Chicoutimi--Le Fjord",True
+24030,"Laurentides--Labelle","QC","laurentides-labelle",24038,"Laurentides--Labelle",True
+70351,"South Surrey--White Rock","BC","south-surrey-white-rock",59030,"Surrey-Sud--White Rock",True
+47006,"Prince Albert","SK","prince-albert",47006,"Prince Albert",True
+70352,"Regina--Lewvan","SK","regina-lewvan",47007,"Regina--Lewvan",True
+47008,"Regina--Qu'Appelle","SK","regina-qu-appelle",47008,"Regina--Qu'Appelle",True
+24018,"Drummond","QC","drummond",24025,"Drummond",True
+59033,"Vancouver Quadra","BC","vancouver-quadra",59039,"Vancouver Quadra",True
+59034,"Vancouver South","BC","vancouver-south",59040,"Vancouver-Sud",True
+35016,"Don Valley East","ON","don-valley-east",35019,"Don Valley-Est",True
+24022,"Honoré-Mercier","QC","honore-mercier",24029,"Honoré-Mercier",True
+24053,"Repentigny","QC","repentigny",24060,"Repentigny",True
+24061,"Rosemont--La Petite-Patrie","QC","rosemont-la-petite-patrie",24064,"Rosemont--La Petite-Patrie",True
+13004,"Fundy Royal","NB","fundy-royal",13004,"Fundy Royal",True
+70353,"Saint John--Rothesay","NB","saint-john-rothesay",13009,"Saint John--Rothesay",True
+13003,"Fredericton","NB","fredericton",13003,"Fredericton",True
+13005,"Madawaska--Restigouche","NB","madawaska-restigouche",13005,"Madawaska--Restigouche",True
+13010,"Tobique--Mactaquac","NB","tobique-mactaquac",13010,"Tobique--Mactaquac",True
+70354,"Miramichi--Grand Lake","NB","miramichi-grand-lake",13006,"Miramichi--Grand Lake",True
+13008,"New Brunswick Southwest","NB","new-brunswick-southwest",13008,"Nouveau-Brunswick-Sud-Ouest",True
+12001,"Cape Breton--Canso","NS","cape-breton-canso",12001,"Cape Breton--Canso",True
+12002,"Central Nova","NS","central-nova",12002,"Nova-Centre",True
+12010,"Sydney--Victoria","NS","sydney-victoria",12010,"Sydney--Victoria",True
+12011,"West Nova","NS","west-nova",12011,"Nova-Ouest",True
+70252,"Terrebonne","QC","terrebonne",24075,"Terrebonne",True
+70041,"Edmonton West","AB","edmonton-west",48020,"Edmonton-Ouest",True
+70355,"Edmonton--Wetaskiwin","AB","edmonton-wetaskiwin",48021,"Edmonton--Wetaskiwin",True
+48019,"Lethbridge","AB","lethbridge",48026,"Lethbridge",True
+70356,"Peace River--Westlock","AB","peace-river-westlock",48028,"Peace River--Westlock",True
+24069,"Shefford","QC","shefford",24072,"Shefford",True
+24009,"Bourassa","QC","bourassa",24015,"Bourassa",True
+70357,"Carlton Trail--Eagle Creek","SK","carlton-trail-eagle-creek",47004,"Sentier Carlton--Eagle Creek",True
+70358,"Moose Jaw--Lake Centre--Lanigan","SK","moose-jaw-lake-centre-lanigan",47005,"Moose Jaw--Lake Centre--Lanigan",True
+59004,"Cariboo--Prince George","BC","cariboo-prince-george",59004,"Cariboo--Prince George",True
+24020,"Gatineau","QC","gatineau",24027,"Gatineau",True
+24025,"Joliette","QC","joliette",24031,"Joliette",True
+70123,"Jonquière","QC","jonquiere",24032,"Jonquière",True
+70160,"Lac-Saint-Jean","QC","lac-saint-jean",24035,"Lac-Saint-Jean",True
+35093,"Toronto Centre","ON","toronto-centre",35108,"Toronto-Centre",True
+70359,"Bow River","AB","bow-river",48003,"Bow River",True
+59010,"Kamloops--Thompson--Cariboo","BC","kamloops-thompson-cariboo",59013,"Kamloops--Thompson--Cariboo",True
+35002,"Algoma--Manitoulin--Kapuskasing","ON","algoma-manitoulin-kapuskasing",35002,"Algoma--Manitoulin--Kapuskasing",True
+70360,"Lanark--Frontenac--Kingston","ON","lanark-frontenac-kingston",35049,"Lanark--Frontenac--Kingston",True
+35019,"Eglinton--Lawrence","ON","eglinton-lawrence",35024,"Eglinton--Lawrence",True
+48012,"Edmonton Centre","AB","edmonton-centre",48014,"Edmonton-Centre",True
+24028,"La Pointe-de-l'Île","QC","la-pointe-de-l-ile",24033,"La Pointe-de-l'Île",True
+70241,"La Prairie","QC","la-prairie",24034,"La Prairie",True
+48005,"Calgary Nose Hill","AB","calgary-nose-hill",48009,"Calgary Nose Hill",True
+70361,"Burnaby South","BC","burnaby-south",59003,"Burnaby-Sud",True
+70362,"Central Okanagan--Similkameen--Nicola","BC","central-okanagan-similkameen-nicola",59005,"Central Okanagan--Similkameen--Nicola",True
+70363,"Chilliwack--Hope","BC","chilliwack-hope",59006,"Chilliwack--Hope",True
+70364,"Coquitlam--Port Coquitlam","BC","coquitlam-port-coquitlam",59008,"Coquitlam--Port Coquitlam",True
+24007,"Beauport--Limoilou","QC","beauport-limoilou",24008,"Beauport--Limoilou",True
+70365,"Steveston--Richmond East","BC","steveston-richmond-east",59031,"Steveston--Richmond-Est",True
+10001,"Avalon","NL","avalon",10001,"Avalon",True
+70366,"Bonavista--Burin--Trinity","NL","bonavista-burin-trinity",10002,"Bonavista--Burin--Trinity",True
+10006,"St. John's East","NL","st-john-s-east",10006,"St. John's-Est",True
+10007,"St. John's South--Mount Pearl","NL","st-john-s-south-mount-pearl",10007,"St. John's-Sud--Mount Pearl",True
+70367,"Calgary Confederation","AB","calgary-confederation",48005,"Calgary Confederation",True
+35017,"Don Valley West","ON","don-valley-west",35021,"Don Valley-Ouest",True
+24072,"Trois-Rivières","QC","trois-rivieres",24076,"Trois-Rivières",True
+70368,"Saskatoon--University","SK","saskatoon-university",47011,"Saskatoon--University",True
+13002,"Beauséjour","NB","beausejour",13002,"Beauséjour",True
+70369,"Pierre-Boucher--Les Patriotes--Verchères","QC","pierre-boucher-les-patriotes-vercheres",24014,"Pierre-Boucher--Les Patriotes--Verchères",True
+70370,"Kanata--Carleton","ON","kanata-carleton",35041,"Kanata--Carleton",True
+48018,"Edmonton Strathcona","AB","edmonton-strathcona",48019,"Edmonton Strathcona",True
+70371,"Ahuntsic-Cartierville","QC","ahuntsic-cartierville",24003,"Ahuntsic-Cartierville",True
+13001,"Acadie--Bathurst","NB","acadie-bathurst",13001,"Acadie--Bathurst",True
+70372,"Coast of Bays--Central--Notre Dame","NL","coast-of-bays-central-notre-dame",10003,"Coast of Bays--Central--Notre Dame",True
+48028,"Yellowhead","AB","yellowhead",48034,"Yellowhead",True
+10004,"Labrador","NL","labrador",10004,"Labrador",True
+70373,"Foothills","AB","foothills",48022,"Foothills",True
+70374,"Long Range Mountains","NL","long-range-mountains",10005,"Long Range Mountains",True
+70375,"Red Deer--Lacombe","AB","red-deer-lacombe",48030,"Red Deer--Lacombe",True
+70376,"St. Albert--Edmonton","AB","st-albert-edmonton",48031,"St. Albert--Edmonton",True
+70377,"Calgary Forest Lawn","AB","calgary-forest-lawn",48006,"Calgary Forest Lawn",True
+59009,"Fleetwood--Port Kells","BC","fleetwood-port-kells",59012,"Fleetwood--Port Kells",True
+70260,"Regina--Wascana","SK","regina-wascana",47009,"Regina--Wascana",True
+24038,"Louis-Saint-Laurent","QC","louis-saint-laurent",24045,"Louis-Saint-Laurent",True
+35082,"Scarborough--Guildwood","ON","scarborough-guildwood",35095,"Scarborough--Guildwood",True
+24043,"Montcalm","QC","montcalm",24050,"Montcalm",True
+70378,"Lévis--Lotbinière","QC","levis-lotbiniere",24042,"Lévis--Lotbinière",True
+24050,"Pontiac","QC","pontiac",24057,"Pontiac",True
+24033,"Laval--Les Îles","QC","laval-les-iles",24040,"Laval--Les Îles",True
+24037,"Louis-Hébert","QC","louis-hebert",24044,"Louis-Hébert",True
+70379,"Ville-Marie--Le Sud-Ouest--Île-des-Soeurs","QC","ville-marie-le-sud-ouest-ile-des-soeurs",24077,"Ville-Marie--Le Sud-Ouest--Île-des-Surs",True
+70380,"Toronto--St. Paul's","ON","toronto-st-paul-s",35090,"Toronto--St. Paul's",True
+11004,"Malpeque","PE","malpeque",11004,"Malpeque",True
+70142,"Port Moody--Coquitlam","BC","port-moody-coquitlam",59023,"Port Moody--Coquitlam",True
+59024,"Saanich--Gulf Islands","BC","saanich-gulf-islands",59027,"Saanich--Gulf Islands",True
+70381,"Richmond Centre","BC","richmond-centre",59025,"Richmond-Centre",True
+70382,"Montarville","QC","montarville",24049,"Montarville",True
+70383,"Scarborough North","ON","scarborough-north",35096,"Scarborough-Nord",True
+35062,"Ottawa Centre","ON","ottawa-centre",35075,"Ottawa-Centre",True
+24051,"Portneuf--Jacques-Cartier","QC","portneuf-jacques-cartier",24058,"Portneuf--Jacques-Cartier",True
+70384,"Surrey Centre","BC","surrey-centre",59032,"Surrey-Centre",True
+70385,"Cloverdale--Langley City","BC","cloverdale-langley-city",59007,"Cloverdale--Langley City",True
+70386,"Calgary Midnapore","AB","calgary-midnapore",48008,"Calgary Midnapore",True
+70387,"Langley--Aldergrove","BC","langley-aldergrove",59016,"Langley--Aldergrove",True
+70388,"Cowichan--Malahat--Langford","BC","cowichan-malahat-langford",59010,"Cowichan--Malahat--Langford",True
+70389,"Argenteuil--La Petite-Nation","QC","argenteuil-la-petite-nation",24005,"Argenteuil--La Petite-Nation",True
+11003,"Egmont","PE","egmont",11003,"Egmont",True
+70390,"Avignon--La Mitis--Matane--Matapédia","QC","avignon-la-mitis-matane-matapedia",24006,"Avignon--La Mitis--Matane--Matapédia",True
+24005,"Beauce","QC","beauce",24007,"Beauce",True
+70391,"Oakville North--Burlington","ON","oakville-north-burlington",35073,"Oakville-Nord--Burlington",True
+35075,"Richmond Hill","ON","richmond-hill",35087,"Richmond Hill",True
+35089,"Thornhill","ON","thornhill",35104,"Thornhill",True
+70392,"Whitby","ON","whitby",35114,"Whitby",True
+70393,"Mississauga--Erin Mills","ON","mississauga-erin-mills",35060,"Mississauga--Erin Mills",True

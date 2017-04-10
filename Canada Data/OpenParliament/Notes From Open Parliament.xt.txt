@@ -1,0 +1,41 @@
+Try to verify that each hansard document is one day:
+select document_id, min(time), max(time), count(distinct extract(day from time)) FROM hansards_statement WHERE id<3000000 GROUP BY document_id ORDER BY count DESC LIMIT 100;                     
+
+Around 20 hansards aren't in 25 years
+SELECT SUM(wordcount), politician_id FROM hansards_statement GROUP BY politician_id ORDER BY sum DESC LIMIT 10;
+
+Annual speaking:
+SELECT SUM(wordcount), EXTRACT(year FROM time), politician_id FROM hansards_statement WHERE politician_id IS NOT NULL GROUP BY EXTRACT(year FROM time), politician_id ORDER BY sum DESC LIMIT 10;
+
+UPDATE hansards_statement SET parliament_number=0;
+UPDATE hansards_statement SET parliament_number=35 WHERE time <= '1997-04-27' AND parliament_number=0;
+UPDATE hansards_statement SET parliament_number=36 WHERE time <= '2000-10-22' AND parliament_number=0;
+UPDATE hansards_statement SET parliament_number=37 WHERE time <= '2004-05-23' AND parliament_number=0;
+UPDATE hansards_statement SET parliament_number=38 WHERE time <= '2005-11-29' AND parliament_number=0;
+UPDATE hansards_statement SET parliament_number=39 WHERE time <= '2008-09-07' AND parliament_number=0;
+UPDATE hansards_statement SET parliament_number=40 WHERE time <= '2011-03-26' AND parliament_number=0;
+UPDATE hansards_statement SET parliament_number=41 WHERE time <= '2015-08-02' AND parliament_number=0;
+UPDATE hansards_statement SET parliament_number=42 WHERE time <= '2017-03-01' AND parliament_number=0;
+
+
+select sum(hansards_statement.wordcount), 
+		hansards_statement.parliament_number, 
+        min(hansards_statement.politician_id) AS pid,
+        min(hansards_statement.member_id) AS mid
+FROM hansards_statement
+WHERE hansards_statement.parliament_number < 42
+GROUP BY hansards_statement.parliament_number, hansards_statement.politician_id 
+ORDER BY sum ASC;
+
+select id, name_en, number, privatemember, sponsor_politician_id, status_date from bills_bill WHERE status_code='RoyalAssentGiven';
+
+ALTER TABLE bills_bill ADD parliament_number INTEGER;
+UPDATE bills_bill SET parliament_number=0;
+UPDATE bills_bill SET parliament_number=35 WHERE status_date <= '1997-04-27' AND parliament_number=0;
+UPDATE bills_bill SET parliament_number=36 WHERE status_date <= '2000-10-22' AND parliament_number=0;
+UPDATE bills_bill SET parliament_number=37 WHERE status_date <= '2004-05-23' AND parliament_number=0;
+UPDATE bills_bill SET parliament_number=38 WHERE status_date <= '2005-11-29' AND parliament_number=0;
+UPDATE bills_bill SET parliament_number=39 WHERE status_date <= '2008-09-07' AND parliament_number=0;
+UPDATE bills_bill SET parliament_number=40 WHERE status_date <= '2011-03-26' AND parliament_number=0;
+UPDATE bills_bill SET parliament_number=41 WHERE status_date <= '2015-08-02' AND parliament_number=0;
+UPDATE bills_bill SET parliament_number=42 WHERE status_date <= '2017-03-01' AND parliament_number=0;
