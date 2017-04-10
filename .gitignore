@@ -4,8 +4,10 @@
 Canada Data/LexisNexis/*
 Reading/*
 Older Drafts/*
+Cover Letter*
 *.docx
 *.aux
 *.log
 *.synctex.gz
 *.RData
+!Canada Data/Merge/prep_data_final.RData

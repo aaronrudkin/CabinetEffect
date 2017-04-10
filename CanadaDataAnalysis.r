@@ -20,7 +20,7 @@ load("Canada Data/merge/prep_data_final.RData")
 #### Linear regression: Vote share ####
 # Cross-sectional, party fixed effects: 2.45
 model.OLS.CS = lm(VotePct ~ CabinetNow + PartyInGovt + TermsServed + as.factor(Party), data=incumbents)
-# Cross-sectional, party-year fixed effects, 2.19
+# Cross-sectional, party-year fixed effects, 2.19 -- note that there are multicollinearity problems with PartyInGovt and some party-year fixed effects.
 model.OLS.CS.PY = lm(VotePct ~ CabinetNow + PartyInGovt + TermsServed + as.factor(Party)*as.factor(Date), data=incumbents)
 # Control for demographics: party fixed effects: 2.42
 model.OLS.CS.MemberDemo = lm(VotePct ~ CabinetNow + PartyInGovt + TermsServed + as.factor(Party) + Gender + PastLawJob, data=incumbents)
@@ -201,6 +201,8 @@ lines(density(log(incumbents[!is.na(incumbents$MediaMentions) &incumbents$MediaM
 legend(7.5, 0.38, c("Cabinet", "Backbench"), col=c("black","black"), lty=c(1,2), cex=0.8, bty="n")
 dev.off()
 
+summary(incumbents$MediaMentions)
+summary(incumbents[incumbents$CabinetNow==1,]$MediaMentions)
 
 #### Mediation Analysis ####
 mediaPredictorNaive = lm(LogMM ~ CabinetNow + TermsServed + PartyInGovt + Gender + PastLawJob + LastVotePct + Age + as.factor(Party), 
@@ -216,8 +218,8 @@ model.mediation.out = mediate(mediaPredictorNaive, lmModelCAMM,
 # 2.56 mediated; -0.84 direct; 1.73 total effect (total mediation)
 summary(model.mediation.out)
 
+# Direct OLS of media mentions; check that this induces a similar pattern.
 model.ols.mediamention = lm(VotePct ~ CabinetNow + TermsServed + PartyInGovt + as.factor(Party) + LogMM, data=incumbents[incumbents$MediaMentions>0, ])
-
 
 #### Combined Effect Plot ####
 effects = c(model.OLS.CS$coefficients[2],
