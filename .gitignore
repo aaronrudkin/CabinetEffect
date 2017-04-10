@@ -8,3 +8,4 @@ Older Drafts/*
 *.aux
 *.log
 *.synctex.gz
+*.RData
