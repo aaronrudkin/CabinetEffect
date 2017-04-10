@@ -16,7 +16,3 @@ Rscript CanadaDataAnalysis.r
 # Fix Stargazer output.
 cd Includes
 python shrinkTex.py
-
-cd ../
-cd "Canada Data/Merge/"
-rm *.RData
